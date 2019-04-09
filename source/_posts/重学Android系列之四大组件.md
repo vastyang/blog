@@ -11,7 +11,7 @@ Activity的4种状态：running / paused / stopped / killed
 Activity的生命周期：onCreate() -> onStart() - > onResume() -> onPause() -> onStop() -> onDestroy()
 
 <center>
-<img src="../images/activity.gif">
+<img src="/images/activity.gif">
 <p style="text-algin:center">Android官网生命周期图</p>
 </center>
 
